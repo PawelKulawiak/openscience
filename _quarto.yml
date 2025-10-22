@@ -1,0 +1,47 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Open Science in der Schulpraxis"
+  author:
+    name: Pawel R. Kulawiak
+    orcid: 0000-0001-5939-4380
+    email: kulawiak.pawel@uni-koeln.de
+    url: https://pawelkulawiak.github.io/
+    affiliations:
+      - name: Universität zu Köln
+        url: https://www.uni-koeln.de/
+      - name: Zentrum für Lehrer:innenbildung (ZfL)
+        url: https://zfl.uni-koeln.de/
+      - name: Graduiertenschule für Lehrer:innenbildung (GSLB)
+        url: https://zfl.uni-koeln.de/graduiertenschule/die-graduiertenschule-auf-einen-blick/team
+  date: today
+  repo-url: https://github.com/PawelKulawiak/openscience
+  sidebar:
+    search: true
+    logo: images/tina.png
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - beispiel.qmd
+    - zusammenfassung.qmd
+    - literatur.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    code-fold: true
+    code-summary: "R-Code aufklappen"
+    html-table-processing: none
+    callout-appearance: simple
+    published-title: Letzte Aktualisierung
+    link-external-newwindow: true
+    lang: de
+    title-block-banner: true
+    theme:
+      - pulse
+
+
+

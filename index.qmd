@@ -1,0 +1,13 @@
+![](images/zfluzk-logo_rgb.png){width="100%"}
+
+# Herzlichen Willkommen {.unnumbered}
+
+Mein Name ist Tina Transparenz. Ich habe Lehramt mit den Fächern Deutsch und Mathematik studiert. Ich arbeite seit 3 Jahren an einer Grundschule. Ich möchte Euch zeigen, wie in meiner Schule im Sinne der offenen Wissenschaftspraxis gearbeitet wird (Open Science).
+
+::: callout-note
+## Hinweis
+
+**Tina Transparenz ist eine fiktive Person und die fiktiven Beispiele dienen der Veranschaulichung.**
+:::
+
+*Diese Webseite ist lizenziert unter einer [CC BY-SA 4.0-Lizenz](https://creativecommons.org/licenses/by-sa/4.0/deed.de)*

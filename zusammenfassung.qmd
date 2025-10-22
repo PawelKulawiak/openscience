@@ -1,0 +1,25 @@
+# Zusammenfassung
+
+## Open Science in der Schulpraxis
+
+Die UNESCO-Empfehlung zu Open Science [@deutscheunesco-kommission2024] definiert Open Science als eine Reihe von Prinzipien und Praktiken. Diese Prinzipien und Praktiken zielen darauf ab, wissenschaftliche Forschung für alle zugänglich zu machen. Dies geschieht zum Nutzen der Gesellschaft als Ganzes. Das in dieser Lektion dargestellte Praxisbeispiel zeigt, dass Open Science auch in der Schulpraxis konkret umgesetzt werden kann und sollte.
+
+## Transparenz, Offenheit und kollaborativer Wissenskreislauf
+
+Die systematische Erfassung der mathematischen Vorläuferfähigkeiten mit dem frei verfügbaren Test "Mathes 0" illustriert das Prinzip des offenen Zugangs zu wissenschaftlichen Ressourcen. Testverfahren, Durchführungshinweise und wissenschaftliche Dokumentation stehen unter CC BY-NC-SA-Lizenz zur Verfügung und ermöglichen allen Schulen – unabhängig von finanziellen Ressourcen – den Zugang zu wissenschaftlich fundiertem Test- und Unterrichtsmaterial. Besonders bedeutsam ist der im Beispiel realisierte Wissenskreislauf: Die Schule nutzt nicht nur frei verfügbare Ressourcen, sondern dokumentiert die Weiterentwicklungen und stellt diese wiederum der Gemeinschaft zur Verfügung. Andere Schulen und Forschende können davon profitieren, die Materialien an ihre Bedürfnisse anpassen und die Erfahrungen ebenfalls teilen. So entsteht ein kontinuierlicher sowie partizipativer Prozess der Wissensentwicklung.
+
+## Reproduzierbarkeit und Nachvollziehbarkeit
+
+Analyse und Visualisierung der Leistungsdaten ermöglichten eine systematische Erfassung der Heterogenität. Dies bildete die Grundlage für datengestützte pädagogische Entscheidungen (Klassenzusammensetzung). Dies zeigt, wie wissenschaftliche Methoden die professionelle Unterrichtspraxis bereichern und verbessern können.
+
+Die Verwendung der frei verfügbaren Programmiersprache R gewährleistet, dass alle Analyseschritte transparent dokumentiert und von anderen nachvollzogen, überprüft und repliziert werden können. Dies entspricht dem zentralen Open Science-Prinzip der Reproduzierbarkeit. Dies soll die Qualität und Verlässlichkeit wissenschaftlicher Erkenntnisse sicherstellen.
+
+## Open Science als Chance für die Bildungspraxis
+
+Die UNESCO-Empfehlung [@deutscheunesco-kommission2024] betont, dass Open Science das Potenzial hat, den wissenschaftlichen Prozess transparenter, inklusiver und demokratischer zu gestalten. Das hier vorgestellte Beispiel demonstriert, dass diese Vision auch in der Schulpraxis verwirklicht werden kann. Die UNESCO-Empfehlung ruft alle Akteur:innen dazu auf, zur Verwirklichung von Open Science beizutragen. Schulen können eine wichtige Rolle in diesem Prozess spielen, indem sie:
+
+- frei verfügbare, wissenschaftlich fundierte Materialien nutzen und weiterentwickeln,
+- ihre Praxis systematisch dokumentieren und analysieren,
+- Erfahrungen und Erkenntnisse mit der Bildungsgemeinschaft teilen,
+- offene Lizenzen wie Creative Commons verwenden und
+- transparente und reproduzierbare Methoden einsetzen.

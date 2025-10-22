@@ -1,0 +1,329 @@
+# Beispiel aus der Schulpraxis
+
+## Systematische Erfassung der Vorläuferfähigkeiten
+
+Als Schule haben wir ein besonderes Interesse an den sogenannten [„Vorläuferfähigkeiten“](https://stift-deutschunterricht.de/vorlaeuferfaehigkeiten/) der Kinder. Wir wollen also diese Kompetenzen der Kinder noch vor der Einschulung kennenlernen. Wenn wir die Kompetenzen der Kinder bereits vor der Einschulung kennen, dann können wir die individuelle Förderung passgenau im Voraus planen und auf eine möglichst leistungsheterogene Klassenzusammensetzung achten (sowohl leistungsstärkere als auch leistungsschwächere Kinder in einer Klasse).
+
+Meine Schule kooperiert daher flächendeckend mit allen Kindertagestätten und Vorschulen in der Region. Noch vor dem Schuleintritt wird in der KiTa bzw. in der Vorschule ein Mathematik-Test durchgeführt. Wir haben uns für den Mathematik-Test [„Mathes 0“](https://www.lernlinie.de/lib/download/ma/Mathes0_Testheft.pdf) entschieden, ein Screening zur Erfassung der Mathematikleistungen zum Schulbeginn. Das besondere an diesem Mathematik-Test ist, dass die Entwicklung des Tests wissenschaftlich dokumentiert worden ist. Der Test wurde erprobt und die Ergebnisse und Erkenntnisse dieser Erprobung sind ebenfalls wissenschaftlich dokumentiert. Entwicklung und Qualität des Tests sind also weitestgehend transparent und nachvollziehbar dokumentiert. Das [Testverfahren](https://www.lernlinie.de/lib/download/ma/Mathes0_Testheft.pdf), [Durchführungshinweise](https://www.lernlinie.de/lib/download/ma/Mathes0_Durchfuehrungshinweise.pdf) und die [wissenschaftliche Dokumentation](https://www.lernlinie.de/lib/download/ma/Mathes0_Manual.pdf) (Manual/Handbuch) sind frei verfügbar, aufgrund der sogenannten [CC BY-NC-SA-Lizenz](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de). Diese Lizenz erlaubt die kostenfreie Nutzung des Tests sowie die Weiterentwicklung des Tests. Das bedeutet, dass wir als Schule den Einsatz des Tests dokumentieren und den Test aufgrund unserer Erfahrung weiterentwickeln können. Wir haben z.B. festgestellt, dass der Test für einige Kinder zu schwer ist. Wir haben daher einige Aufgaben leichter gestaltet, um im niedrigen Leistungsspektrum besser differenzieren zu können. Den Prozess der Weiterentwicklung haben wir dokumentiert. Diese Dokumentation und die Weiterentwicklung des Tests haben wir ebenfalls mit [CC BY-NC-SA-Lizenz](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) veröffentlicht.
+
+Damit schließt sich der Kreislauf von Open Science: Sowohl der Prozess der Weiterentwicklung als auch die Ergebnisse der Weiterentwicklung sind frei zugänglich und nutzbar. Andere Schulen und Forschende können von unseren Erkenntnissen profitieren, den weiterentwickelten Test einsetzen, den Test wiederum an ihre Bedürfnisse anpassen und die Erfahrungen ebenfalls dokumentieren und teilen. So entsteht ein kontinuierlicher Wissenskreislauf, bei dem wissenschaftliche Erkenntnisse transparent dokumentiert und frei zur Verfügung gestellt werden.
+
+:::::: callout-note
+## Mathes 0 - Screening zur Erfassung der Mathematikleistungen zum Schulbeginn
+
+::::: grid
+::: g-col-5
+![](images/mathes0.png)
+:::
+
+::: g-col-7
+[Testvorlage](https://www.lernlinie.de/lib/download/ma/Mathes0_Testheft.pdf)
+
+[Auswertungsvorlage](https://www.lernlinie.de/lib/download/ma/Mathes0_Auswertungsvorlage.pdf)
+
+[Durchführungshinweise](https://www.lernlinie.de/lib/download/ma/Mathes0_Durchfuehrungshinweise.pdf)
+
+[Manual/Handbuch](https://www.lernlinie.de/lib/download/ma/Mathes0_Manual.pdf)
+
+„Mathes 0“ und weitere Testverfahren sind hier verfügbar:
+
+<https://home.lernlinie.de/>
+
+Konzept und Entwicklung weiterer Testverfahren sind hier dargestellt (z.B. für den Bereich Rechtschreibung):
+
+[Multimodale Diagnostik als Ausgangspunkt für spezifische Förderung - Eine Darlegung am Beispiel der Rechtschreibung](https://home.lernlinie.de/)
+:::
+:::::
+::::::
+
+## Analyse der Daten
+
+Der Mathematik-Test [„Mathes-0“](https://www.lernlinie.de/lib/download/ma/Mathes0_Testheft.pdf) wird in den KiTas und Vorschulen durchgeführt. Die bearbeiteten Tests werden an unsere Schule übersendet und wir beginnen mit der Auswertung der Tests. Die Auswertung erfolgt gemäß den Angaben in der [Auswertungsvorlage](https://www.lernlinie.de/lib/download/ma/Mathes0_Auswertungsvorlage.pdf). Die Werte der einzelnen Kinder können anschließend in eine dafür vorgesehene [Excel-Tabelle](https://www.lernlinie.de/lib/download/ma/Mathes0_Klassenuebersicht.xlsx) übertragen werden. Gemäß den Angaben im Handbuch ([hier](https://www.lernlinie.de/lib/download/ma/Mathes0_Manual.pdf#page=26) und [hier](https://www.lernlinie.de/lib/download/ma/Mathes0_Manual.pdf#page=14)) erfolgt eine Kategorisierung in unterschiedliche Leistungsniveaus.
+
+![Referenzniveaus als Interpretationshilfen für die erzielte Testleistung gemäß den Angaben im Mathes-0-Handbuch ([hier](https://www.lernlinie.de/lib/download/ma/Mathes0_Manual.pdf#page=26) und [hier](https://www.lernlinie.de/lib/download/ma/Mathes0_Manual.pdf#page=14))](images/niveaus.png)
+
+Für das nächste Schuljahr wurden **87 Kinder** an unserer Schule angemeldet (Einschulung). Wir haben daher einen Datensatz (Mathematik-Leistung) mit 87 Kindern. An unserer Schule analysieren wir diese Daten mit der frei verfügbaren [Programmiersprache R](https://de.wikipedia.org/wiki/R_(Programmiersprache)). Die Programmiersprache R entspricht dem Gedanken der Offenen Wissenschaftspraxis, weil die Programmiersprache frei verfügbar ist und weil die Analyseschritte sehr transparent und nachvollziehbar dargestellt werden können (Analyse-Code der Programmiersprache R). Diese Analyseschritte können wiederum im Sinne der Offenen Wissenschaftspraxis öffentlich zugänglich gemacht werden. Die Analysen können dann von Außenstehenden (z.B. andere Schulen) sehr gut nachvollzogen, repliziert und sogar abgewandelt werden.
+
+Nachfolgend sieht man den Analyse-Code der Programmiersprache R ("R-Code aufklappen"). Mit diesem Code (Analyse-Anweisungen) wird eine übersichtliche Tabelle mit den Leistungen aller Kinder erstellt (aus Datenschutzrechtlichen Gründen sind Pseudonyme anstatt von Klarnamen dargestellt).
+
+```{r}
+#| eval: true
+#| include: false
+library(tidyverse)
+
+set.seed(1982)
+
+#Testwert <-
+#  rnorm(87, 50, 20) %>%
+#  round() %>% 
+#  abs() %>% 
+#  sort(decreasing = T)
+
+Testwert <-
+  rnorm(87, 27, 2.5) %>%
+  round() %>% 
+  abs() %>% 
+  sort(decreasing = T)
+
+Testwert[3] <- 31
+
+Pseudonym <- c(
+  "Christo","Karien","Andre","Annelise","Frans","Thandi","Elizma","Pule","Temba","Adriaan",
+  "Leah","Simone","Xolani","Tshepo","Petra","Zola","Ruan","Liezl","Elma","Lerato",
+  "Coenie","Zinhle","Pieter","Kgothatso","Mandla","Thabo","Retha","Nokuthula","Tessa","Hanno",
+  "Vuyani","Palesa","Kobus","Iman","Bonolo","Herman","Mia","Anika","Lukas","Mariska",
+  "Bongi","Hendrik","Jana","Gert","Dawid","Sizwe","Olivia","Nadine","Yolandi","Noah",
+  "Leonie","Ricky","Kea","Sara","Brendan","Mpho","Elsa","Sarel","Riana","Siphamandla",
+  "Heinrich","Rocco","Mandla","Nandi","Sibusiso","Ruan","Karla","Pieter","Vuyani","Refilwe",
+  "Diego","Palesa","Temba","Marthinus","Nosipho","Thandi","Sarel","Petra","Hendrik","Elsa",
+  "Christo","Karien","Leah","Tshepo","Amahle","Coenie","Sipho")
+
+DATEN <- tibble(Pseudonym, Testwert)
+
+DATEN <-
+  DATEN %>%
+  mutate(Niveau = case_when(
+    Testwert > 31 ~ "weit überdurchschnittlich",
+    Testwert > 30 ~ "überdurchschnittlich",
+    Testwert >= 24 ~ "durchschnittlich",
+    Testwert > 20 ~ "unterdurchschnittlich",
+    TRUE ~ "weit unterdurchschnittlich"
+  )) %>%
+  mutate(Niveau = factor(Niveau, levels = c(
+    "weit unterdurchschnittlich",
+    "unterdurchschnittlich",
+    "durchschnittlich",
+    "überdurchschnittlich",
+    "weit überdurchschnittlich"
+  ))) %>%
+  rename(`Punkte (Rohwert)` = Testwert)
+```
+
+```{r}
+#| warning: false
+#| message: false
+
+library(gt)        # gt Paket laden (https://gt.rstudio.com/)
+library(tidyverse) # gt tidyverse Paket laden (https://tidyverse.org/)
+
+# Tabellarische Darstellung
+DATEN %>%
+  gt() %>%
+  data_color(
+    columns = Niveau,
+    fn = function(x) {
+      case_when(                                      # Farbauswahl
+        x == "weit überdurchschnittlich" ~ "#9B8BA8", # Purpur
+        x == "überdurchschnittlich" ~ "#6B9AC4",      # Blau
+        x == "durchschnittlich" ~ "#A8C686",          # Grün
+        x == "unterdurchschnittlich" ~ "#E6B854",     # Gelb
+        x == "weit unterdurchschnittlich" ~ "#C85450" # Rot
+      )
+    }
+  ) %>%
+  tab_header(
+    title = "Testung vor Einschulung 2025/2026",
+    subtitle = 'Leistungen im Mathematik-Test "Mathes-0" in der KiTa bzw. Vorschule'
+  )
+```
+
+## Visualisierung der Daten
+
+Bilder sagen bekanntlich mehr als Tabellen und tausend Worte. Wir entscheiden uns daher für eine grafische Darstellung der einzuschulenden Kinder. Mit dem Waffel-Diagramm wird jedes einzelne Kind als kleines Quadrat repräsentiert. Das dazugehörige Balkendiagramm zeigt uns die Anzahl und Prozentzahlen. Mit dieser Visualisierung verschaffen wir uns eine erste Übersicht über die Mathematik-Leistung der einzuschulenden Kinder.
+
+```{r}
+#| warning: false
+#| message: false
+#| fig-height: 8
+
+library(ggwaffle)  # ggwaffle Paket laden (https://liamgilbey.github.io/ggwaffle/index.html)
+library(patchwork) # patchwork Paket laden (https://patchwork.data-imaginist.com/)
+
+WAFFELDIAGRAMM <-
+  DATEN %>% 
+  waffle_iron(aes_d(group = Niveau)) %>%
+  ggplot(aes(x, y, fill = group)) +
+  geom_waffle() +
+  scale_fill_manual(
+    values = c(                                # Parbauswahl
+      "weit überdurchschnittlich" = "#9B8BA8", # Purpur
+      "überdurchschnittlich" = "#6B9AC4",      # Blau
+      "durchschnittlich" = "#A8C686",          # Grün
+      "unterdurchschnittlich" = "#E6B854",     # Gelb
+      "weit unterdurchschnittlich" = "#C85450" # Rot
+    )
+  ) +
+  coord_equal() +
+  scale_x_reverse() +
+  theme_void() +
+  labs(
+    title = 'Waffel-Diagramm (Leistungen im Mathematik-Test "Mathes-0")',
+    subtitle = "Jedes Quadrat repräsentiert ein Kind"
+  ) +
+  theme(
+    legend.title = element_blank(),
+    legend.position = "none"
+  )
+
+BALKENDIAGRAMM <-
+  DATEN %>%
+  count(Niveau) %>%
+  mutate(
+    Prozent = n / sum(n) * 100,
+    Label = paste0(n, " (", round(Prozent, 1), "%)")
+  ) %>%
+  ggplot(aes(x = Niveau, y = n, fill = Niveau)) +
+  geom_col() +
+  geom_text(aes(label = Label), hjust = -0.1, size = 4) +
+  scale_fill_manual(
+    values = c(                                # Parbauswahl
+      "weit überdurchschnittlich" = "#9B8BA8", # Purpur
+      "überdurchschnittlich" = "#6B9AC4",      # Blau
+      "durchschnittlich" = "#A8C686",          # Grün
+      "unterdurchschnittlich" = "#E6B854",     # Gelb
+      "weit unterdurchschnittlich" = "#C85450" # Rot
+    )
+  ) +
+  coord_flip() +
+  labs(
+    subtitle = 'Leistungen im Mathematik-Test "Mathes-0"',
+    title = "Balkendiagramm mit Anzahl und Prozentzahl",
+    x = NULL,
+    y = "Anzahl der Kinder"
+  ) +
+  theme_minimal() +
+  theme(legend.position = "none") +
+  ylim(0, max(count(DATEN, Niveau)$n) * 1.15)
+
+WAFFELDIAGRAMM /
+BALKENDIAGRAMM +
+plot_layout(heights = c(0.7, 0.3))
+
+```
+
+## Heterogene Klassenzusammensetzung
+
+Mit den vorausgegangenen Analysen und Visualisierungen haben wir uns eine Übersicht über die Mathematik-Leistung der einzuschulenden Kinder verschafft. Das Gesamte Leistungsspektrum ist vertreten, von "weit unterdurchschnittlich" bis "weit überdurchschnittlich".
+
+Es gibt Studien [@linchevski1998], die darauf hinweisen, dass eine heterogene Klassenzusammensetzung (leistungsstärkere und leistungsschwächere Kinder in einer Klasse) für die akademische Entwicklung der Kinder förderlich sein könnte, insbesondere für leistungsschwächere Kinder. Daher streben wir eine möglichst leistungsheterogene Klassenzusammensetzung an.
+
+Mit der Programmiersprache R haben wir einen Algorithmus implementiert, um eine möglichst leistungsheterogene Klassenzusammensetzung zu erreichen. Dieser Algorithmus stellt sicher, dass das leistungsstärkste und das leistungsschwächste Kind in einer Klasse sind. Da die Kinder im Datensatz gemäß ihrer Leistung sortiert sind, befinden sich die leistungsstärkeren Kinder in der oberen Hälfte des Datensatzes und die leistungsschwächeren Kinder in der unteren Hälfte des Datensatzes. Das oberste (leistungsstärkste) und das unterste (leistungsschwächste) Kind im Datensatz werden einer Klasse zu geordnet. Dieser Prozess der Zuordnung (von oben und unten) wird stetig wiederholt, bis alle Kinder zugeordnet sind. Die Zuordnung (von oben und unten) erfolgt im Wechsel für die Klassen A, B und C.
+
+-   **Zuordnung von oben (leistungsstärkste Kinder)**: Klasse A, Klasse B, Klasse C, Klasse A, Klasse B, Klasse C, usw.
+-   **Zuordnung von unten (leistungsschwächste Kinder)**: Klasse A, Klasse B, Klasse C, Klasse A, Klasse B, Klasse C, usw.
+
+Nachfolgend sehen wir den Algorithmus für die Klassenzuordnung, umgesetzt mit der Programmiersprache R, sowie die tabellarische Darstellung der Kinder mit entsprechender Klassenzuordnung.
+
+```{r}
+# Algorithmus für die Klassenzuordnung
+
+Klasse <-
+  c(
+    rep(c("A", "B", "C"), length.out = ceiling(nrow(DATEN)/2)),
+    rep(c("A", "B", "C"), length.out = ceiling((nrow(DATEN)/2)-1)) %>% rev()
+    )
+```
+
+```{r}
+# Tabellarische Darstellung der Kinder mit entsprechender Klassenzuordnung
+
+cbind(DATEN, Klasse) %>%
+  gt() %>%
+  data_color(
+    columns = Niveau,
+    fn = function(x) {
+      case_when(                                      # Farbauswahl
+        x == "weit überdurchschnittlich" ~ "#9B8BA8", # Purpur
+        x == "überdurchschnittlich" ~ "#6B9AC4",      # Blau
+        x == "durchschnittlich" ~ "#A8C686",          # Grün
+        x == "unterdurchschnittlich" ~ "#E6B854",     # Gelb
+        x == "weit unterdurchschnittlich" ~ "#C85450" # Rot
+      )
+    }
+  ) %>%
+  tab_header(
+    title = "Testung vor Einschulung 2025/2026",
+    subtitle = 'Leistungen im Mathematik-Test "Mathes-0" in der KiTa bzw. Vorschule'
+  )
+```
+
+Entsprechende Waffel-Diagramme für die einzelnen Klassen veranschaulichen, dass wir tatsächlich eine leistungsheterogene Klassenzusammensetzung erreicht haben.
+
+```{r}
+WAFFELDIAGRAMM_A <-
+  cbind(DATEN, Klasse) %>% 
+  filter(Klasse == "A") %>%
+  waffle_iron(aes_d(group = Niveau)) %>%
+  ggplot(aes(x, y, fill = group)) +
+  geom_waffle() +
+  scale_fill_manual(
+    values = c(                                # Parbauswahl
+      "weit überdurchschnittlich" = "#9B8BA8", # Purpur
+      "überdurchschnittlich" = "#6B9AC4",      # Blau
+      "durchschnittlich" = "#A8C686",          # Grün
+      "unterdurchschnittlich" = "#E6B854",     # Gelb
+      "weit unterdurchschnittlich" = "#C85450" # Rot
+    )
+  ) +
+  coord_equal() +
+  scale_x_reverse() +
+  theme_void() +
+  labs(title = "Klasse A") +
+  theme(
+    legend.title = element_blank(),
+    legend.position = "left"
+  ) +
+  guides(fill = guide_legend(reverse = TRUE)) 
+
+WAFFELDIAGRAMM_B <-
+  cbind(DATEN, Klasse) %>% 
+  filter(Klasse == "B") %>%
+  waffle_iron(aes_d(group = Niveau)) %>%
+  ggplot(aes(x, y, fill = group)) +
+  geom_waffle() +
+  scale_fill_manual(
+    values = c(                                # Parbauswahl
+      "weit überdurchschnittlich" = "#9B8BA8", # Purpur
+      "überdurchschnittlich" = "#6B9AC4",      # Blau
+      "durchschnittlich" = "#A8C686",          # Grün
+      "unterdurchschnittlich" = "#E6B854",     # Gelb
+      "weit unterdurchschnittlich" = "#C85450" # Rot
+    )
+  ) +
+  coord_equal() +
+  scale_x_reverse() +
+  theme_void() +
+  labs(title = "Klasse B") +
+  theme(
+    legend.title = element_blank(),
+    legend.position = "none"
+  )
+
+WAFFELDIAGRAMM_C <-
+  cbind(DATEN, Klasse) %>% 
+  filter(Klasse == "C") %>%
+  waffle_iron(aes_d(group = Niveau)) %>%
+  ggplot(aes(x, y, fill = group)) +
+  geom_waffle() +
+  scale_fill_manual(
+    values = c(                                # Parbauswahl
+      "weit überdurchschnittlich" = "#9B8BA8", # Purpur
+      "überdurchschnittlich" = "#6B9AC4",      # Blau
+      "durchschnittlich" = "#A8C686",          # Grün
+      "unterdurchschnittlich" = "#E6B854",     # Gelb
+      "weit unterdurchschnittlich" = "#C85450" # Rot
+    )
+  ) +
+  coord_equal() +
+  scale_x_reverse() +
+  theme_void() +
+  labs(title = "Klasse C") +
+  theme(
+    legend.title = element_blank(),
+    legend.position = "none"
+  )
+
+WAFFELDIAGRAMM_A + WAFFELDIAGRAMM_B + WAFFELDIAGRAMM_C / plot_layout(guides = 'collect')
+```
+
+Der von uns implementierte Algorithmus der Klassenzuordnung stellt sicher, dass die leistungsstärksten und leistungsschwächsten Kinder tatsächlich in einer Klasse sind. Ein bloßes Abzählen bei der Zuordnung (Klasse A, Klasse B, Klasse C, Klasse A, Klasse B, Klasse C, usw.) würde dies nicht sicherstellen. Das leistungsschwächste Kind wäre dann nicht in einer Klasse mit dem leistungsstärksten Kind. Der von uns entwickelte Algorithmus hat sich für die Zusammensetzung leistungsheterogener Klassen daher als sehr nützlich erwiesen. Wir haben den Algorithmus der Klassenzuordnung daher frei zugänglich gemacht, damit auch andere Schulen den Algorithmus nutzen können. Dieses Teilen von Ressourcen, Tools und Techniken entspricht dem Leitgedanken der offenen Wissenschaftspraxis: Fortschritt und Weiterentwicklung durch gemeinsames Teilen und Kooperieren.

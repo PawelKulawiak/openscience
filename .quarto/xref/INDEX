@@ -1,0 +1,23 @@
+{
+  "index.qmd": {
+    "index.html": "fbec50e0"
+  },
+  "intro.qmd": {
+    "intro.html": "60013332"
+  },
+  "summary.qmd": {
+    "summary.html": "e38f53e9"
+  },
+  "references.qmd": {
+    "references.html": "b50e8d69"
+  },
+  "beispiel.qmd": {
+    "beispiel.html": "0a0f6a05"
+  },
+  "literatur.qmd": {
+    "literatur.html": "616930cc"
+  },
+  "zusammenfassung.qmd": {
+    "zusammenfassung.html": "69308d3f"
+  }
+}

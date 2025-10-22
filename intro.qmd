@@ -1,0 +1,26 @@
+# Open Science
+
+## Was ist Open Science?
+
+Als Lehrerin mache ich in der Schul- und Unterrichtspraxis viele Erfahrungen. Ich dokumentiere, analysiere und reflektiere meine Erfahrungen tagtäglich. Dieser Prozess trägt zu meiner persönlichen und professionellen Weiterentwicklung bei. Ich arbeite also [wissenschaftlich-empirisch](https://dorsch.hogrefe.com/stichwort/empirische-sozialforschung). Das bedeutet, dass meine Erkenntnisse auf wissenschaftlicher Erfahrung basieren. Die Begriffe [empirisch](https://de.wiktionary.org/wiki/empirisch), [Empirismus](https://de.wikipedia.org/wiki/Empirismus), und [Empirie](https://de.wikipedia.org/wiki/Empirie) entstammen dem Altgriechischen und bedeuten so viel wie „Erfahrung“. Betrachten wir eine klassische Definition der empirischen Wissenschaft bzw. empirischen Forschung:
+
+::: callout-tip
+"Empirische Sozialforschung [engl. empirical social inquiry/research; gr. εμπειρία (empeiria) Erfahrung] bezeichnet als Oberbegriff die Untersuchung sozialer Sachverhalte mithilfe empirischer Forschungsmethoden. Mit sozialen Sachverhalten sind dabei Phänomene gemeint, die sich im weitesten Sinne auf das menschliche Erleben, Verhalten und vor allem Zusammenleben beziehen und unter anderem in Psychologie und Soziologie sowie in der Politik-, Gesundheits-, Kommunikations- oder Erziehungswissenschaft behandelt werden. Neben disziplinär getrennter ist auch interdisziplinäre oder transdisziplinäre empirische Sozialforschung verbreitet. Bei empirischen Forschungsmethoden handelt es sich um wissenschaftstheoretisch begründete Vorgehensweisen (Wissenschaftstheorie), mit deren Hilfe im Rahmen unterschiedlicher Forschungsstrategien (z. B. qualitative, quantitative oder Mixed-Methods-Forschung) und Forschungsdesigns (z. B. experimentelle oder nicht experimentelle Studie) empirische Daten erhoben (Datenerhebungsverfahren) und analysiert (Datenanalysemethoden) werden, die zur Bearbeitung des jeweiligen Forschungsproblems (z. B. Bildung oder Prüfung einer Theorie zu einem bestimmten sozialen Phänomen) aussagekräftige Informationen über die soziale Erfahrungswirklichkeit liefern."
+
+Dorsch Lexikon der Psychologie (2021): Stichwort ["empirische Sozialforschung"](https://dorsch.hogrefe.com/stichwort/empirische-sozialforschung)
+:::
+
+Im Kollegium haben wir gemeinsam einen wichtigen Beschluss gefasst. Wir wollen wissenschaftlich-empirisch arbeiten. Wir wollen unsere Berufserfahrung und gesammelten Erkenntnisse systematisch dokumentieren und festhalten. Wir wollen diese Erfahrungen und Erkenntnisse frei zur Verfügung stellen, damit auch andere Lehrkräfte und Schulen davon profitieren können. Das ist der Kern von Open Science: Wir arbeiten transparent und teilen unsere Erfahrung. Dieser Leitgedanke steht im Einklang mit der Empfehlung zur Offenen Wissenschaftspraxis der UNESCO.
+
+## Definition der Offenen Wissenschaft (Open Science)
+
+::: callout-tip
+"Laut der UNESCO-Empfehlung für Wissenschaft und wissenschaftlich Forschende von 2017 bezeichnet der Begriff „Wissenschaft“ ein Unterfangen, bei dem die Menschheit, einzeln oder in kleinen oder großen Gruppen, in Zusammenarbeit und im Wettbewerb miteinander, den organisierten Versuch unternimmt, beobachtete Phänomene objektiv zu untersuchen, dies mittels des Austauschs von Erkenntnissen und Daten und durch Peer Review zu validieren, Kausalitätsketten, Beziehungen oder Interaktionen zu erkunden und zu erfassen, in koordinierter Form Teilsysteme des Wissens durch systematische Reflexion und Konzeptualisierung zusammenzuführen und sich dadurch die Möglichkeit zu eröffnen, das Verständnis der Prozesse und Phänomene in Natur und Gesellschaft zu ihrem eigenen Vorteil nutzbar zu machen." [@deutscheunesco-kommission2024, S. 30]
+
+"Für die Zwecke dieser Empfehlung wird Offene Wissenschaft (Open Science) definiert als ein Dachkonzept verschiedener Initiativen und Praktiken, die gemeinsam darauf abzielen, wissenschaftliches Wissen in möglichst vielen Sprachen für alle offen verfügbar, zugänglich und weiterverwendbar zu machen, die wissenschaftliche Zusammenarbeit und den Austausch von Informationen zum Nutzen von Wissenschaft und Gesellschaft zu verbessern und die Prozesse der wissenschaftlichen Erkenntnis, Evaluierung und Kommunikation von Wissen für Personen und Institutionen der Gesellschaft außerhalb der traditionellen wissenschaftlichen Gemeinschaft zu öffnen. Sie umfasst alle wissenschaftlichen Disziplinen und Aspekte der wissenschaftlichen Praxis, einschließlich der Grundlagenforschung und der angewandten Wissenschaften, der Natur-, Sozial- und Geisteswissenschaften und baut auf den folgenden Säulen auf: offenes wissenschaftliches Wissen, offene Forschungsinfrastrukturen, Wissenschaftskommunikation, offene Einbindung von Personen und Institutionen der Gesellschaft und offener Dialog mit anderen Wissenssystemen." [@deutscheunesco-kommission2024, S. 32]
+
+:::
+
+Auf den ersten Blick erscheint die Definition der UNESCO sehr abstrakt. Ich möchte Euch daher anhand eines Praxisbeispiels den Ansatz der Offenen Wissenschaft erläutern. Die Leitgedanken der Offenen Wissenschaft sind aber auch eindrucksvoll im Videoformat dargestellt.
+
+{{< video https://www.youtube.com/embed/I3Wkvx_ZaFo?si=s_fBoOqPHXx-t65K >}}
