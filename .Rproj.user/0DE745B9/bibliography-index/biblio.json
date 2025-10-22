@@ -1,0 +1,88 @@
+{
+    "sources": [
+        {
+            "DOI": "10.1093/comjnl/27.2.97",
+            "ISSN": "0010-4620",
+            "URL": "https://doi.org/10.1093/comjnl/27.2.97",
+            "author": [
+                {
+                    "family": "Knuth",
+                    "given": "Donald E."
+                }
+            ],
+            "container-title": "Comput. J.",
+            "id": "knuth84",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        1984,
+                        5
+                    ]
+                ]
+            },
+            "page": "97-111",
+            "publisher": "Oxford University Press, Inc.",
+            "publisher-place": "USA",
+            "title": "Literate programming",
+            "type": "article-journal",
+            "volume": "27"
+        },
+        {
+            "URL": "https://www.unesco.de/assets/dokumente/Deutsche_UNESCO-Kommission/02_Publikationen/DUK_Konventionstexte_OpenScience2024_web.pdf",
+            "author": [
+                {
+                    "family": "Deutsche UNESCO-Kommission"
+                }
+            ],
+            "edition": "Status Dezember 2024",
+            "id": "deutscheunesco-kommission2024",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "language": "ger",
+            "note": "OCLC: 1542840677",
+            "publisher": "Deutsche UNESCO-Kommission e.V",
+            "publisher-place": "Bonn, Deutschland",
+            "title": "Empfehlung zu offener Wisssenschaft/open science",
+            "type": "book"
+        },
+        {
+            "DOI": "10.2307/749732",
+            "URL": "http://dx.doi.org/10.2307/749732",
+            "author": [
+                {
+                    "family": "Linchevski",
+                    "given": "Liora"
+                },
+                {
+                    "family": "Kutscher",
+                    "given": "Bilha"
+                }
+            ],
+            "container-title": "Journal for Research in Mathematics Education",
+            "id": "linchevski1998",
+            "issue": "5",
+            "issued": {
+                "date-parts": [
+                    [
+                        1998,
+                        11
+                    ]
+                ]
+            },
+            "page": "533",
+            "title": "Tell me with whom you’re learning, and i’ll tell you how much you’ve learned: Mixed-ability versus same-ability grouping in mathematics",
+            "title-short": "Tell me with whom you’re learning, and i’ll tell you how much you’ve learned",
+            "type": "article-journal",
+            "volume": "29"
+        }
+    ],
+    "project_biblios": [
+        "references.bib"
+    ]
+}
